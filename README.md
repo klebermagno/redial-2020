@@ -66,7 +66,7 @@ API URL: `hostname:port/predict`
 - Found here - `./docker_api_content.yml`
 
 ### Contributors
-[Srijan Verma](https://www.linkedin.com/in/vermasrijan/), [Govinda KC](https://github.com/Govindakc), [Giovanni Bocci](https://www.linkedin.com/in/giovanni-bocci-88b659b7/), [Suman Sirimulla](https://expertise.utep.edu/node/36435), [Tudor I. Oprea](https://vivo.health.unm.edu/display/n7948) <br/><br/>
+[Srijan Verma](https://www.linkedin.com/in/vermasrijan/), [Govinda KC](https://github.com/Govindakc), [Mahmudulla Hassan](https://github.com/hassanmohsin), [Giovanni Bocci](https://www.linkedin.com/in/giovanni-bocci-88b659b7/), [Suman Sirimulla](https://expertise.utep.edu/node/36435), [Tudor I. Oprea](https://vivo.health.unm.edu/display/n7948) <br/><br/>
 <!---
 ### TODO:
 1. Handle Flask cache error (duplicate tables are displayed at the moment ; use flask reload maybe)
